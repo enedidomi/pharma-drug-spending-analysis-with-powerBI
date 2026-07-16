@@ -44,8 +44,8 @@ Overall, the dashboard provides useful insights into pharmaceutical spending tre
 
 ### Executive Dashboard
 
-![Executive Dashboard](dashboard_screenshots/Pharma%20Drug%20Spendings%20Dashboard%201.png)
+![Executive Dashboard](screenshots/Pharma%20Drug%20Spendings%20Dashboard%201.png)
 
 ### Country Analysis Dashboard
 
-![Country Analysis Dashboard](dashboard_screenshots/Pharma%20Drug%20Spendings%20Dashboard%202.png)
+![Country Analysis Dashboard](screenshots/Pharma%20Drug%20Spendings%20Dashboard%202.png)
