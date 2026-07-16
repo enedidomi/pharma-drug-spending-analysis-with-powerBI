@@ -29,3 +29,23 @@ An interactive Power BI dashboard analyzing pharmaceutical drug expenditure acro
 - Top 10 Countries by Per Capita Expenditure
 - Top 10 Countries by Pharmaceutical Spending as % of GDP
 - Top 10 Countries by Share of Health Expenditure
+
+## Findings
+
+The dashboard shows a total pharmaceutical expenditure of $19.36 million, with an average expenditure per capita of $453.63. On average, pharmaceutical spending represents 1.22% of GDP and 16.63% of total health expenditure across the countries in the dataset.
+
+The United States has the highest total pharmaceutical expenditure by a large margin, followed by Japan and Germany. Total pharmaceutical spending has increased steadily over time, especially after the year 2000, reaching its highest levels in recent years.
+
+The country comparison shows a positive relationship between pharmaceutical expenditure per capita and share of GDP, meaning that countries spending more per person also tend to spend a larger share of their economy on pharmaceuticals. Greece, Japan, Italy, and France consistently rank among the countries with the highest pharmaceutical spending relative to both GDP and total health expenditure.
+
+Overall, the dashboard provides useful insights into pharmaceutical spending trends over time and highlights the differences in healthcare spending across OECD countries.
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/pharma-drug-spendings-dashboard-1.png)
+
+### Country Analysis Dashboard
+
+![Country Analysis Dashboard](screenshots/pharma-drug-spendings-dashboard-2.png)
